@@ -14,7 +14,7 @@
 	<h10>Protecting your details</h10><br>
 	<h5>We place great focus and priority on keeping your accounts protected when banking online. In addition, there are a few simple measures you can take to ensure you stay safe online.</h5>
 	<h10>Contact us</h10> <br>
-	<h5>If you suspect any suspicious activity, have accidentally disclosed your account details or password, or suspect any unauthorised access of your account, contact us immediately by sending an email to: <a href="secure@bankoneer.com" target="_blank">secure@bankoneer.com </a> or use our hotmail service: 9849940021</h5>
+	<h5>If you suspect any suspicious activity, have accidentally disclosed your account details or password, or suspect any unauthorised access of your account, contact us immediately by sending an email to: <a href="secure@bankoneer.com" target="_blank">secure@bankoneer.com </a> or use our hotmail service: 984xxxxxxx</h5>
 
 
 </body>
